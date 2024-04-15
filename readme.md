@@ -1,4 +1,4 @@
-# Integration of rqiner for hiveos 6.1 ( beta )
+# Integration of rqiner for Hiveos 6.1 ( Beta version )
 
 Rqiner github : https://github.com/Qubic-Solutions/rqiner-gpu-builds/releases
 
