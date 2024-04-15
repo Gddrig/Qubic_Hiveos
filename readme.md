@@ -15,7 +15,7 @@ hive-replace -y --beta
 
 ### For AMD, you need Hiveos Beta, Zluda and Rocm
 
-Follow the tutorial here : https://github.com/Gddrig/Qubic_Hiveos/blob/main/tutorial_amd.md
+Follow the tutorial [here](https://github.com/Gddrig/Qubic_Hiveos/blob/main/tutorial_amd.md) 
 
 ## Flightsheet example 
 
