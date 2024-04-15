@@ -22,3 +22,7 @@ Follow the tutorial here : https://github.com/Gddrig/Qubic_Hiveos/blob/main/tuto
 ![alt text](https://github.com/Gddrig/Qubic_Hiveos/blob/main/Capture.PNG)
 
 
+To support my work, Qubic : 
+```sh
+CZBJCMAWKIBLEHVJPAWERRNVKKNAXUSPMJIYZXCKYCGJSWNMUGCJPLCEEGKE
+```
