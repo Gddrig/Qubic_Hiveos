@@ -19,8 +19,9 @@ Follow the tutorial [here](https://github.com/Gddrig/Qubic_Hiveos/blob/main/tuto
 
 ## Flightsheet example 
 
-![alt text](https://github.com/Gddrig/Qubic_Hiveos/blob/main/Capture.PNG)
+![alt text](https://github.com/Gddrig/Qubic_Hiveos/blob/main/Capture.PNG)  
 
+-------------------------  
 
 To support my work, Qubic : 
 ```sh
