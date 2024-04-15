@@ -16,7 +16,7 @@ apt update && apt install unzip g++ gcc  -y
 
 ## Install Zluda :
 ```sh
-mkdir /usr/lib/zluda && cd /usr/lib/zluda && wget https://github.com/Gddrig/Qubic-AMD/releases/download/3.22/zluda_hiveos-6.1.zip && unzip zluda_hiveos-6.1.zip && chmod +rwx /usr/lib/zluda/* && cd /
+mkdir /usr/lib/zluda && cd /usr/lib/zluda && wget https://github.com/Gddrig/Qubic_Hiveos/releases/download/0.4.1/zluda_hiveos-6.1.zip && unzip zluda_hiveos-6.1.zip && chmod +rwx /usr/lib/zluda/* && cd /
 ```
 
 ## Update ROCM 5.7 for Hiveos :
@@ -26,7 +26,7 @@ amd-ocl-install 5.7 5.7
 
 ## Install the library necessary for Zluda to work with Rocm :
 ```sh
-cd /opt/rocm/lib && wget https://github.com/Gddrig/Qubic-AMD/releases/download/3.22/libamdhip64.so.zip && unzip libamdhip64.so.zip && chmod +rwx /opt/rocm/lib/* && rm libamdhip64.so.zip && cd / && ldconfig
+cd /opt/rocm/lib && wget https://github.com/Gddrig/Qubic_Hiveos/releases/download/0.4.1/libamdhip64.so.zip && unzip libamdhip64.so.zip && chmod +rwx /opt/rocm/lib/* && rm libamdhip64.so.zip && cd / && ldconfig
 ```
 
 
