@@ -46,4 +46,4 @@ apt install g++-11
 
 ## Flightsheet example :
 
-![alt text](https://github.com/Gddrig/Qubic-AMD/blob/main/Capture.PNG)
+![alt text](https://github.com/Gddrig/Qubic_Hiveos/blob/main/Capture.PNG)
